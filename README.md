@@ -1,6 +1,6 @@
 #### Ah, You are finally awake.. 
 
-Well, welcome to my Github profile, as you may observe from my account name, I am an absolute rookie and I feel very cookie about the idea of Python + Linux romance.
+Well, welcome to my Github profile, as you may observe from my account name, I am an absolute rookie and I feel very cookie about the idea of Python + Linux kernel romance.
 
 - I have started studying Python around August 2024 and quickly realized its power, flexibility and absurd simplicty. Its beautiful relationship with Linux made me to switch to Ubuntu shortly after having been able to write with confidence in Python. Now I am making my way to become a greybeard on the realm of Python and berserker on the realm of Linux.
 - I am highly interested in back-end development and networking.
