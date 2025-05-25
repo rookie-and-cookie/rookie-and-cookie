@@ -7,15 +7,10 @@ I have started studying Python and quickly realized its power, flexibility and a
 So far: 
 
   - Pyhton  [========  ] %80
-  
   - C [=        ] %10
-  
   - Pandas [====      ] %40
-  
   - Django [==       ] %20
-  
   - SQLAlchemy [=         ] %10
-  
   - Flask [===       ] %30
 
 I triple check everything, which may be quite a problem if you want something from me and If you need it quickly. I am not a speed-runner. I call it 'Holy Trinity' principle. Basically put : 'Existence', 'Uniqueness', 'Functionality'.
